@@ -6,7 +6,7 @@
       "os": "Windows",
       "osVersion": "10",
       "sessionName": "El Pais Test - Chrome Win10",
-      "projectName": "El Pais "
+      "projectName": "El_Pais_BrowserStack "
     }
   },
   {
@@ -16,18 +16,17 @@
       "os": "Windows",
       "osVersion": "11",
       "sessionName": "El Pais Test - Firefox Win11",
-      "projectName": "El Pais "
+      "projectName": "El_Pais_BrowserStack "
     }
   },
   {
-    "browserName": "samsung",
+    "browserName": "Chrome",
+    "browserVersion": "latest",
     "bstack:options": {
-      "deviceName": "Samsung Galaxy S25 Ultra",
-      "osVersion": "15.0",
-      "realMobile": true,
-      "deviceOrientation": "portrait",
-      "sessionName": "El Pais Test - Galaxy S25",
-      "projectName": "El Pais "
+      "os": "Windows",
+      "osVersion": "11",
+      "sessionName": "El Pais Test - Chrome Win10",
+      "projectName": "El_Pais_BrowserStack "
     }
   },
   {
@@ -37,7 +36,7 @@
       "os": "OS X",
       "osVersion": "Monterey",
       "sessionName": "El Pais Test - Safari Mac",
-      "projectName": "El Pais "
+      "projectName": "El_Pais_BrowserStack "
     }
   },
   {
@@ -48,7 +47,7 @@
       "realMobile": true,
       "osVersion": "16",
       "sessionName": "El Pais Test - iPhone 14",
-      "projectName": "El Pais "
+      "projectName": "El_Pais_BrowserStack "
     }
   }
 ]
