@@ -1,0 +1,24 @@
+userName: hritikgupta_WcDP8L
+accessKey: YfxxAxFLyznCqmYphR4L
+platforms:
+  - os: Windows
+    osVersion: 10
+    browserName: Chrome
+    browserVersion: latest
+  - os: Windows
+    osVersion: 11
+    browserName: Firefox
+    browserVersion: latest
+  - deviceName: Samsung Galaxy S25 Ultra
+    osVersion: 15.0
+    browserName: samsung
+    deviceOrientation: portrait
+browserstackLocal: true
+buildName: elpais build
+projectName: elpais
+CUSTOM_TAG_1: "You can set a custom Build Tag here"
+# Use CUSTOM_TAG_<N> and set more build tags as you need.
+debug: true
+networkLogs: true
+consoleLogs: info
+framework: python

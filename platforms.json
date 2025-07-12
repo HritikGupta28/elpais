@@ -1,0 +1,54 @@
+[
+  {
+    "browserName": "Chrome",
+    "browserVersion": "latest",
+    "bstack:options": {
+      "os": "Windows",
+      "osVersion": "10",
+      "sessionName": "El Pais Test - Chrome Win10",
+      "projectName": "El Pais "
+    }
+  },
+  {
+    "browserName": "Firefox",
+    "browserVersion": "latest",
+    "bstack:options": {
+      "os": "Windows",
+      "osVersion": "11",
+      "sessionName": "El Pais Test - Firefox Win11",
+      "projectName": "El Pais "
+    }
+  },
+  {
+    "browserName": "samsung",
+    "bstack:options": {
+      "deviceName": "Samsung Galaxy S25 Ultra",
+      "osVersion": "15.0",
+      "realMobile": true,
+      "deviceOrientation": "portrait",
+      "sessionName": "El Pais Test - Galaxy S25",
+      "projectName": "El Pais "
+    }
+  },
+  {
+    "browserName": "Safari",
+    "browserVersion": "latest",
+    "bstack:options": {
+      "os": "OS X",
+      "osVersion": "Monterey",
+      "sessionName": "El Pais Test - Safari Mac",
+      "projectName": "El Pais "
+    }
+  },
+  {
+    "browserName": "Safari",
+    "browserVersion": "latest",
+    "bstack:options": {
+      "deviceName": "iPhone 14",
+      "realMobile": true,
+      "osVersion": "16",
+      "sessionName": "El Pais Test - iPhone 14",
+      "projectName": "El Pais "
+    }
+  }
+]

@@ -1,0 +1,11 @@
+# Match Appium's requirement
+selenium==4.34.2
+
+# Downgrade pytest to avoid rerunfailures issue
+pytest==8.1.1
+
+# Other tools
+requests==2.32.3
+beautifulsoup4==4.12.3
+pytest-xdist==3.6.1
+python-dotenv==1.0.1
