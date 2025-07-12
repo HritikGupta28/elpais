@@ -25,7 +25,7 @@
     "bstack:options": {
       "os": "Windows",
       "osVersion": "11",
-      "sessionName": "El Pais Test - Chrome Win10",
+      "sessionName": "El Pais Test - Chrome Win11",
       "projectName": "El_Pais_BrowserStack "
     }
   },
